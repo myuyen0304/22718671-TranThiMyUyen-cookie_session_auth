@@ -40,37 +40,37 @@ node cookie_auth.js
 - Gửi thông tin đăng ký.
 - Kiểm tra tài khoản đã được lưu trong database.
 
-![Register](./cookie_session_auth/images/register.png)
+![Register](images/register.png)
 
 ### c. Đăng nhập (login)
 
 - Gửi thông tin đăng nhập.
 - Kiểm tra xác thực trong database.
 
-![Login](./cookie_session_auth/images/login.png)
+![Login](images/login.png)
 
 ### Check in database
 
-![Check User](./cookie_session_auth/images/checkUser.png)
+![Check User](images/checkUser.png)
 
 ### d. Kiểm tra cookie trong database
 
 - Sử dụng MongoDB Compass hoặc lệnh truy vấn MongoDB để kiểm tra cookie đã được lưu trong database.
 
-![Check Cookie](./cookie_session_auth/images/checkSession.png)
+![Check Cookie](images/checkSession.png)
 
 ### e. Truy cập trang profile
 
 - Sau khi đăng nhập, truy cập trang profile để kiểm tra thông tin người dùng.
 
-![Profile](./cookie_session_auth/images/profile.png)
+![Profile](images/profile.png)
 
 ### f. Đăng xuất (logout)
 
 - Đăng xuất khỏi hệ thống.
 - Kiểm tra cookie đã bị xóa trong database.
 
-![Logout](./cookie_session_auth/images/logout.png)
+![Logout](images/logout.png)
 ---
 
 **Lưu ý:**
